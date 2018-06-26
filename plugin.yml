@@ -1,0 +1,9 @@
+name: EnchantmentUI
+version: 1.1
+main: NightRich\Enchantment\Base
+api: 3.0.1
+author: NightRich
+
+commands:
+    addenchant:
+        description: Enchantment main command.
