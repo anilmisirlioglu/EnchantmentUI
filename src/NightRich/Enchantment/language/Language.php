@@ -26,7 +26,7 @@ use pocketmine\utils\TextFormat;
 class Language{
 
     /** @var string */
-    public const DEFAULT_LANGUAGE = "tr_TR";
+    public const DEFAULT_LANGUAGE = "en_EN";
     /** @var array */
     protected static $langs = [];
 
